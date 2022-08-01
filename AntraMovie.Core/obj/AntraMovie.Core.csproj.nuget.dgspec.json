@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Core/AntraMovie.Core.csproj": {}
+  },
+  "projects": {
+    "/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Core/AntraMovie.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Core/AntraMovie.Core.csproj",
+        "projectName": "AntraMovie.Core",
+        "projectPath": "/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Core/AntraMovie.Core.csproj",
+        "packagesPath": "/Users/tao/.nuget/packages/",
+        "outputPath": "/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tao/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

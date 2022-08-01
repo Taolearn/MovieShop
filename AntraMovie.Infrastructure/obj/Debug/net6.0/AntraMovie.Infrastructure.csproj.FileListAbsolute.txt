@@ -1,0 +1,17 @@
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Infrastructure/bin/Debug/net6.0/AntraMovie.Infrastructure.deps.json
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Infrastructure/bin/Debug/net6.0/AntraMovie.Infrastructure.runtimeconfig.json
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Infrastructure/bin/Debug/net6.0/AntraMovie.Infrastructure.dll
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Infrastructure/bin/Debug/net6.0/AntraMovie.Infrastructure.pdb
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Infrastructure/bin/Debug/net6.0/AntraMovie.Core.dll
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Infrastructure/bin/Debug/net6.0/AntraMovie.Core.pdb
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Infrastructure/obj/Debug/net6.0/AntraMovie.Infrastructure.csproj.AssemblyReference.cache
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Infrastructure/obj/Debug/net6.0/AntraMovie.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Infrastructure/obj/Debug/net6.0/AntraMovie.Infrastructure.AssemblyInfoInputs.cache
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Infrastructure/obj/Debug/net6.0/AntraMovie.Infrastructure.AssemblyInfo.cs
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Infrastructure/obj/Debug/net6.0/AntraMovie.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Infrastructure/obj/Debug/net6.0/AntraMovie.Infrastructure.csproj.CopyComplete
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Infrastructure/obj/Debug/net6.0/AntraMovie.Infrastructure.dll
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Infrastructure/obj/Debug/net6.0/refint/AntraMovie.Infrastructure.dll
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Infrastructure/obj/Debug/net6.0/AntraMovie.Infrastructure.pdb
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Infrastructure/obj/Debug/net6.0/AntraMovie.Infrastructure.genruntimeconfig.cache
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Infrastructure/obj/Debug/net6.0/ref/AntraMovie.Infrastructure.dll

@@ -1,0 +1,14 @@
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Core/bin/Debug/net6.0/AntraMovie.Core.deps.json
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Core/bin/Debug/net6.0/AntraMovie.Core.runtimeconfig.json
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Core/bin/Debug/net6.0/AntraMovie.Core.dll
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Core/bin/Debug/net6.0/AntraMovie.Core.pdb
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Core/obj/Debug/net6.0/AntraMovie.Core.csproj.AssemblyReference.cache
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Core/obj/Debug/net6.0/AntraMovie.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Core/obj/Debug/net6.0/AntraMovie.Core.AssemblyInfoInputs.cache
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Core/obj/Debug/net6.0/AntraMovie.Core.AssemblyInfo.cs
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Core/obj/Debug/net6.0/AntraMovie.Core.csproj.CoreCompileInputs.cache
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Core/obj/Debug/net6.0/AntraMovie.Core.dll
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Core/obj/Debug/net6.0/refint/AntraMovie.Core.dll
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Core/obj/Debug/net6.0/AntraMovie.Core.pdb
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Core/obj/Debug/net6.0/AntraMovie.Core.genruntimeconfig.cache
+/Users/tao/Projects/AntraMovie.WebMVC/AntraMovie.Core/obj/Debug/net6.0/ref/AntraMovie.Core.dll
